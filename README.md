@@ -1,4 +1,4 @@
-# Supply Chain Research Series
+# 🗐 Supply Chain Research Series
 
 Welcome to my collection of independent research articles exploring logistics, supply chain management, global trade, sustainability, operational intelligence, and emerging economies.
 
